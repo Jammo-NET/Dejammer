@@ -1,0 +1,6 @@
+bin/
+obj/
+.idea/
+.vs/
+CppDebugger/
+Dejammer.sln.DotSettings.user
